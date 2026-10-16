@@ -55,7 +55,7 @@ I graduated from Shanghai Jiao Tong University in June 2024 and joined the Hong 
 * Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.* NeurIPS 2023.
 * Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. *Composing Parameter-Efficient Modules with Arithmetic Operations.* NeurIPS 2023.
 
-See also my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and the [Publications](/publications/) page for more details.
+See also my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) and the [Publications](https://plateregenerate.github.io/LJT-Homepage/publications/) page for more details.
 
 ## Contact
 
