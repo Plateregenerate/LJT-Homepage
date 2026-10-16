@@ -1,18 +1,13 @@
 # Authors
+#
+# These entries are used when a page sets `author: <key>` in its front matter.
+# When no key is given, the settings under `author:` in _config.yml are used
+# for the author sidebar instead.
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+junteng_liu:
+  name        : "Junteng Liu"
+  email       : "jliugi@connect.ust.hk"
+  bio         : "First-year PhD candidate at the HKUST NLP Group, working on natural language processing and machine learning."
+  avatar      : "profile.png"
+  github      : "Vicent0205"
+  twitter     : "junteng88716710"
