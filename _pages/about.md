@@ -38,7 +38,7 @@ I graduated from Shanghai Jiao Tong University in June 2024 and joined the Hong 
 
 * **Research areas:** Natural Language Processing, Machine Learning
 * **Topics:** LLM reasoning, reinforcement learning, hallucination in vision-language models, LLM truthfulness and interpretability
-* **Methods:** Inner representation analysis of large language models, verifiable synthetic reasoning data, vision-language model perception and chart understanding, evaluation suites for foundation models, composition of parameter-efficient modules
+* **Techniques:** Inner representation analysis of large language models, verifiable synthetic reasoning data, vision-language model perception and chart understanding, evaluation suites for foundation models, composition of parameter-efficient modules
 * **Open source:** Code and resources for my first-author projects (SynLogic, Vision4Chart and Universal_Truthfulness_Hyperplane) are available at [github.com/Vicent0205](https://github.com/Vicent0205)
 
 ## Honors
