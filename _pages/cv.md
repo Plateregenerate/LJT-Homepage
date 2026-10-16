@@ -34,7 +34,7 @@ redirect_from:
 
 * **Research areas:** Natural Language Processing, Machine Learning
 * **Topics:** LLM reasoning, reinforcement learning, hallucination in vision-language models, LLM truthfulness and interpretability
-* **Methods:** Inner representation analysis of large language models, verifiable synthetic reasoning data, vision-language model perception and chart understanding, evaluation suites for foundation models, composition of parameter-efficient modules
+* **Techniques:** Inner representation analysis of large language models, verifiable synthetic reasoning data, vision-language model perception and chart understanding, evaluation suites for foundation models, composition of parameter-efficient modules
 
 ## Honors
 
